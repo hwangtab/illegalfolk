@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/illegalfolk/static/css/main.d7c1caf9.css",
+    "main.js": "/illegalfolk/static/js/main.bd558aaf.js",
+    "static/media/moreudo-toyoil.jpg": "/illegalfolk/static/media/moreudo-toyoil.299aa36ab42be3b04316.jpg",
+    "static/media/kim-dongsan-and-blue-neighbors.jpg": "/illegalfolk/static/media/kim-dongsan-and-blue-neighbors.673e982d3f40b3d6aefa.jpg",
+    "static/media/lee-hyeongju.jpg": "/illegalfolk/static/media/lee-hyeongju.7d18a8681599e3cc5d8a.jpg",
+    "static/media/opera-danggu-club.jpg": "/illegalfolk/static/media/opera-danggu-club.67213fcb8c386348b2dc.jpg",
+    "static/media/kwak-juna.jpg": "/illegalfolk/static/media/kwak-juna.74bf46381873f9454aaa.jpg",
+    "index.html": "/illegalfolk/index.html",
+    "main.d7c1caf9.css.map": "/illegalfolk/static/css/main.d7c1caf9.css.map",
+    "main.bd558aaf.js.map": "/illegalfolk/static/js/main.bd558aaf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d7c1caf9.css",
+    "static/js/main.bd558aaf.js"
+  ]
+}
